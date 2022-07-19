@@ -42,4 +42,4 @@ MSSQL Server
 ![Comcast Data Analysis using SQL (12)](https://user-images.githubusercontent.com/29229114/179829447-93c0e156-c973-4f3e-920d-f91e3a518929.svg)
 
 
-NOTE: SQL file has not been shared here, incase you need them for your project please drop a mail at arorakshitiz96@gmail.com
+NOTE: SQL file has not been shared here, incase you need it for your project please drop a mail at arorakshitiz96@gmail.com
