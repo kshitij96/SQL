@@ -2,7 +2,7 @@
 
  
 ## Business Problem: 
-Identify the KPIs and perform analysis on customer complaint data of quarter 2 to unveil significant insights.
+Identify the KPIs and analyse the customer complaint data of quarter 2 to unveil significant insights.
 
 
 ## Tool Used:
